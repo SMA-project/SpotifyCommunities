@@ -25,7 +25,6 @@ This notebook is optimized for faster execution by reusing precomputed results. 
 
 - `custom_louvain_top1000.pkl`  
 - `louvain_benchmark_results.csv`  
-- `louvain_comparison.png`
 
 Running `Spotify_preRun_Louvain.ipynb` will take only a few minutes, making it ideal for reviewing results without the extended computation time.
 
